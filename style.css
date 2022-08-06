@@ -334,8 +334,7 @@ button:hover {
     .buttons {
         display: flex;
         flex-direction: column;
-        gap: 20px;
-        justify-content:space-around;
+        gap: 50px;
     }
     .second {
         display: flex;
